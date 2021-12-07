@@ -20,3 +20,4 @@ The ZIP and the folder it self. Just ignore that. and open the folder
 Step 5. open the folder again which is named ComaNo-main. on the folder ComaNo-main. and boom ko mango! you got access to the testing files!
 https://www.mediafire.com/file/oo5j50z279zo7l0/Снимок+экрана+2021-12-07+171543.png/file
 Hope this works for you.
+Also forget to tell. all images are just downloads. so just download it to see the example.
